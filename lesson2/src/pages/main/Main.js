@@ -6,6 +6,7 @@ import Modal from '../../components/modal/Modal';
 import Input from '../../components/input/Input';
 
 
+
 const Main = () => {
     const [show, setShow] = useState(false)
     const [inputValue, setInputValue] = useState('')
