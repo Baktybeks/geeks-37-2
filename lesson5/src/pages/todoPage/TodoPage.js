@@ -120,6 +120,8 @@ const TodoPage = () => {
                 handleDone={handleDone}
                 handleEdit={handleEdit}
             />
+
+
             <Pagination prev={handlePrev} next={handleNext} page={page}/>
         </>
     );
