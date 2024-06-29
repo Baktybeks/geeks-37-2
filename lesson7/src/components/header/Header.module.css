@@ -1,0 +1,8 @@
+.list {
+  width: 800px;
+  margin: 0 auto;
+  display: flex;
+  list-style: none;
+  justify-content:space-between ;
+  padding: 20px;
+}

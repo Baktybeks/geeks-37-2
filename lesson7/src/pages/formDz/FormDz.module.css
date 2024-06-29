@@ -1,0 +1,4 @@
+
+.input[aria-invalid="true"]{
+  background-color: red;
+}
